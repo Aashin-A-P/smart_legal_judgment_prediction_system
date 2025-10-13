@@ -3,7 +3,7 @@ An AI powered Legal Judgment Prediction System that predicts the outcome of a ca
 
 This project has been done under Dr. M.R. Sumalatha as part of the Final Year Project (Project I) of 7th Semester. The project deals with predicting statutes and charges provided the factual descriptions and also providing explanation for the prediction. 
 
-The project involves two modules: 
-    1. Smart Legal Judgment Prediction Module (SLJP)
-    2. Legal Reasoning Module (Judgment + Explainability Module [JudgEx Module])
+The project involves two modules: \
+    1. Smart Legal Judgment Prediction Module (SLJP) \
+    2. Legal Reasoning Module (Judgment + Explainability Module [JudgEx Module]) \
 
