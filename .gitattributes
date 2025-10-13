@@ -1,1 +1,4 @@
 SLJP/Dataset/encoder.csv filter=lfs diff=lfs merge=lfs -text
+SLJP/Graph[[:space:]]Augmentation/*.csv filter=lfs diff=lfs merge=lfs -text
+SLJP/Graph[[:space:]]Augmentation/*.pt filter=lfs diff=lfs merge=lfs -text
+SLJP/Graph[[:space:]]Augmentation/*.npy filter=lfs diff=lfs merge=lfs -text
