@@ -7,3 +7,14 @@ The project involves two modules: \
     1. Smart Legal Judgment Prediction Module (SLJP) \
     2. Legal Reasoning Module (Judgment + Explainability Module [JudgEx Module]) \
 
+# 1.Introduction
+
+# 2.Related Work
+
+# 3.Dataset
+
+# 4.Methodology
+
+# 5.Results and Discussion
+
+# 6.Conclusion
