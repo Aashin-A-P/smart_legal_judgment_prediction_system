@@ -5,7 +5,7 @@ This project has been done under Dr. M.R. Sumalatha as part of the Final Year Pr
 
 The project involves two modules: \
     1. Smart Legal Judgment Prediction Module (SLJP) \
-    2. Legal Reasoning Module (Judgment + Explainability Module [JudgEx Module]) \
+    2. Legal Reasoning Module (Judgment + Explainability Module [JudgEx Module]) 
 
 ## 📘 Abstract
 Indian law is rooted in the Constitution of India and administered through a hierarchical judiciary—from the Supreme Court to subordinate Civil and Criminal Courts. However, this framework remains complex and often inaccessible to the public.
