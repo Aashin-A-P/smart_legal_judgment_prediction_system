@@ -182,5 +182,5 @@ If you use this repository, please cite:
 
 ### 📬 Contact
 **Author:** Aashin  
-📧 [mailto:apaashin@gmail.com](mailto:apaashin@gmail.com)  
+📧 [mailto:apaashin@gmail.com](apaashin@gmail.com)  
 🎓 Final-Year Student @ MIT – Anna University  
